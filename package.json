@@ -1,0 +1,25 @@
+{
+  "name": "readmeio-github",
+  "version": "1.0.0",
+  "description": "ReadMe's shared GitHub organization documents",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/readmeio/.github.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/readmeio/.github/issues"
+  },
+  "homepage": "https://github.com/readmeio/.github#readme",
+  "devDependencies": {
+    "@readme/eslint-config": "^8.5.0",
+    "alex": "^10.0.0",
+    "eslint": "^8.10.0",
+    "prettier": "^2.5.1"
+  }
+}
