@@ -1,6 +1,7 @@
 {
   "name": "readmeio-github",
   "version": "1.0.0",
+  "private": true,
   "description": "ReadMe's shared GitHub organization documents",
   "main": "index.js",
   "scripts": {
