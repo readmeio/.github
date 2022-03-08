@@ -2,6 +2,8 @@
 
 ## Our Pledge
 
+<img align="right" width="25%" style="margin-bottom: 2em" src="https://owlbert.io/images/owlberts-png/Blue-Heart.psd.png">
+
 <!-- alex ignore sex sexual-->
 
 We as members, contributors, and leaders pledge to make participation in our

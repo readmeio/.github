@@ -2,6 +2,8 @@
 
 ## Reporting a Vulnerability
 
+<img align="right" width="25%" style="margin-bottom: 2em" src="https://owlbert.io/images/owlberts-png/Ice-Cream.psd.png">
+
 If there are any vulnerabilities in this repository, don't hesitate to _report them_.
 
 Please email security@readme.io and describe what you've found.
