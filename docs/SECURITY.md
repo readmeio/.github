@@ -6,7 +6,7 @@
 
 If there are any vulnerabilities in this repository, don't hesitate to _report them_.
 
-Please email security@readme.io and describe what you've found.
+Please email support@readme.io and describe what you've found.
 
 - If you have a fix, explain or attach it.
 - In the near time, expect a reply with the required steps. Also, there may be a demand for a pull request which include the fixes.
