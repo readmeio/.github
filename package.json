@@ -3,27 +3,16 @@
   "version": "1.0.0",
   "private": true,
   "description": "ReadMe's shared GitHub organization documents",
-  "main": "index.js",
   "scripts": {
-    "lint": "eslint .",
-    "lint:docs": "alex .",
-    "test": "npm run lint && npm run lint:docs"
+    "test": "alex ."
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/readmeio/.github.git"
   },
-  "author": "",
+  "author": "ReadMe",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/readmeio/.github/issues"
-  },
-  "homepage": "https://github.com/readmeio/.github#readme",
   "devDependencies": {
-    "@readme/eslint-config": "^8.5.0",
-    "alex": "^10.0.0",
-    "eslint": "^8.10.0",
-    "prettier": "^2.5.1"
-  },
-  "prettier": "@readme/eslint-config/prettier"
+    "alex": "^10.0.0"
+  }
 }
