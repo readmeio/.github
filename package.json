@@ -11,12 +11,8 @@
     "type": "git",
     "url": "git+https://github.com/readmeio/.github.git"
   },
-  "author": "",
+  "author": "ReadMe",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/readmeio/.github/issues"
-  },
-  "homepage": "https://github.com/readmeio/.github#readme",
   "devDependencies": {
     "alex": "^10.0.0"
   }
