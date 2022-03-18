@@ -13,3 +13,5 @@ The fastest way to get a response is if you contact us via Intercom. You can rea
 ### Issues With This Repository
 
 Please read our [security policy](./SECURITY.md) for information on reporting security vulnerabilities. If you have any other kind of bug report, a feature request, or a question that is specific to this repository, please create a new issue.
+
+We look forward to hearing from you! :owl:
