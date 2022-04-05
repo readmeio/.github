@@ -4,7 +4,7 @@
   "private": true,
   "description": "ReadMe's shared GitHub organization documents",
   "scripts": {
-    "test": "alex ."
+    "test": "alex . .github"
   },
   "repository": {
     "type": "git",
