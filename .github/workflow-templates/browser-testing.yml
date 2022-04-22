@@ -1,0 +1,63 @@
+name: Browser Testing
+
+on: [push]
+
+jobs:
+  run:
+    name: Browser
+    runs-on: ${{ matrix.os }}
+    strategy:
+      fail-fast: true
+      matrix:
+        browser:
+          - chrome
+          - firefox
+        os:
+          - ubuntu-latest
+          - windows-latest
+
+    steps:
+      - name: Checkout source
+        uses: actions/checkout@v2
+
+      - name: Install Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: 14
+
+      - name: Get npm cache directory
+        id: npm-cache-dir
+        run: |
+          echo "::set-output name=dir::$(npm config get cache)"
+
+      - uses: actions/cache@v2
+        id: npm-cache
+        with:
+          path: ${{ steps.npm-cache-dir.outputs.dir }}
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
+
+      - name: Install npm@8
+        run: npm install -g npm@8
+
+      - name: Install dependencies
+        run: npm ci
+
+      # Chrome
+      - uses: browser-actions/setup-chrome@latest
+        if: matrix.browser == 'chrome'
+
+      - name: Run tests on Chrome
+        if: matrix.browser == 'chrome'
+        run: |
+          npm run test:browser -- --browsers=ChromeHeadless
+
+      # Firefox
+      - uses: browser-actions/setup-chrome@latest
+        if: matrix.browser == 'firefox'
+
+      - name: Run tests on Firefox
+        if: matrix.browser == 'firefox'
+        run: |
+          npm run test:browser -- --browsers=FirefoxHeadless
