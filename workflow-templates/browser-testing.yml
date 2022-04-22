@@ -1,3 +1,7 @@
+# To use this workflow you will need to have `chai`, `mocha`, `@jsdevtools/host-environment`, and
+# `@jsdevtools/karma-config` installed, along with a `karma.config.js` file set up. Check out the
+# [Karma config in `fetch-har`](https://github.com/readmeio/fetch-har/blob/main/karma.conf.js) for
+# an example of how to set this up.
 name: Browser Testing
 
 on: [push]
