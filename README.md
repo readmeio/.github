@@ -2,4 +2,4 @@
 
 <img align="right" width="25%" style="margin-bottom: 2em" src="https://owlbert.io/images/owlberts-png/reading.png.png">
 
-This repository contains ReadMe's shared community health files.
+This repository contains ReadMe's shared [community health files](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file) and [starter workflows](https://docs.github.com/en/actions/using-workflows/creating-starter-workflows-for-your-organization).
