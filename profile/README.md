@@ -6,9 +6,9 @@ Welcome to our GitHub org! [At ReadMe][readme], we want developers to succeed. T
 
 ### And by “developer”, we mean a _lot_ of people…
 
-:memo:   [Anyone that builds API docs](https://readme.com/customers) on ReadMe. <br>
-:monocle_face:   People that use API docs built on ReadMe. <br>
-:floppy_disk:   Folks that use any of our open source libraries.[^come-work-with-us] <br>
+:memo:   [Anyone who builds API docs](https://readme.com/customers) on ReadMe. <br>
+:monocle_face:   People who use API docs built on ReadMe. <br>
+:floppy_disk:   Folks who use any of our open source libraries.[^come-work-with-us] <br>
 :dancers:   [The ReadMe team](https://readme.com/about). <br>
 :rainbow:   Honestly? [Pretty much everyone](http://amiarealdeveloper.com)!
 
