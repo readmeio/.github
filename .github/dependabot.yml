@@ -6,7 +6,7 @@ updates:
       interval: monthly
     labels:
       - dependencies
-    commit-message:
+    commit-message: dependabot source code yml
       prefix: chore(deps)
       prefix-development: chore(deps-dev)
 
