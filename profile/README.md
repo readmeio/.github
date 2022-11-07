@@ -1,4 +1,4 @@
-<img align="right" width="33%" style="margin-bottom: 2em" src="http://owlbert.io/images/owlberts-png/Popper.psd.png">
+<img align="right" width="33%" style="margin-bottom: 2em" src="http://owlbertsio-resized.s3.amazonaws.com/Popper.psd.png">
 
 # Hi, we're ReadMe! :wave:
 

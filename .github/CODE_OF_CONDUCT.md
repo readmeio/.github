@@ -2,7 +2,7 @@
 
 ## Our Pledge
 
-<img align="right" width="25%" style="margin-bottom: 2em" src="https://owlbert.io/images/owlberts-png/Blue-Heart.psd.png">
+<img align="right" width="25%" style="margin-bottom: 2em" src="https://owlbertsio-resized.s3.amazonaws.com/Blue-Heart.psd.png">
 
 <!-- alex ignore sex sexual-->
 
