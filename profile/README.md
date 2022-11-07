@@ -1,6 +1,6 @@
 <img align="right" width="33%" style="margin-bottom: 2em" src="http://owlbert.io/images/owlberts-png/Popper.psd.png">
 
-# Hi, we're ReadMe! <img height=36 align=center src=https://cliply.co/wp-content/uploads/2019/06/391906110_WAVING_HAND_400px.gif>
+# Hi, we're ReadMe! :wave:
 
 Welcome to our GitHub org! [At ReadMe][readme], we want developers to succeed. That's why building thoughtful developer experiences is at the core of everything we do.
 
