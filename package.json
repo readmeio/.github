@@ -13,6 +13,6 @@
   "author": "ReadMe",
   "license": "ISC",
   "devDependencies": {
-    "alex": "^10.0.0"
+    "alex": "^11.0.0"
   }
 }
