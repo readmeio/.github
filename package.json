@@ -4,15 +4,12 @@
   "private": true,
   "description": "ReadMe's shared GitHub organization documents",
   "scripts": {
-    "test": "alex . .github"
+    "test": "npx alex . .github"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/readmeio/.github.git"
   },
   "author": "ReadMe",
-  "license": "ISC",
-  "devDependencies": {
-    "alex": "^11.0.0"
-  }
+  "license": "ISC"
 }
