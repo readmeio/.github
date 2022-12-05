@@ -1,4 +1,4 @@
-| 🚥 Fix RM-XXX |
+| 🚥 Fixes RM-XXX |
 | :------------ |
 
 ## 🧰 Changes
