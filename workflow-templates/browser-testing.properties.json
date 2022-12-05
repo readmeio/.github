@@ -1,10 +1,6 @@
 {
   "name": "Browser Testing",
   "description": "Mocha + Chai + Karma browser testing starter workflow",
-  "categories": [
-    "JavaScript"
-  ],
-  "filePatterns": [
-    "package.json$"
-  ]
+  "categories": ["JavaScript"],
+  "filePatterns": ["package.json$"]
 }

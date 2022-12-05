@@ -1,5 +1,5 @@
-| 🚥 Fix RM-XXX |
-| :-- |
+| 🚥 Fixes ISSUE_ID |
+| :---------------- |
 
 ## 🧰 Changes
 

@@ -1,6 +1,6 @@
 # Contributing
 
-<img align="right" width="25%" style="margin-bottom: 2em" src="https://owlbertsio-resized.s3.amazonaws.com/Blocks.psd.png">
+<img align="right" width="25%" style="margin-bottom: 2em" src="https://owlbertsio-resized.s3.amazonaws.com/Blocks.psd.full.png">
 
 ### Commit Conventions
 

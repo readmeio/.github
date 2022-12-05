@@ -2,7 +2,7 @@
 
 ## Reporting a Vulnerability
 
-<img align="right" width="25%" style="margin-bottom: 2em" src="https://owlbertsio-resized.s3.amazonaws.com/Ice-Cream.psd.png">
+<img align="right" width="25%" style="margin-bottom: 2em" src="https://owlbertsio-resized.s3.amazonaws.com/Ice-Cream.psd.full.png">
 
 If there are any vulnerabilities in this repository, don't hesitate to _report them_.
 
