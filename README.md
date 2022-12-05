@@ -1,6 +1,6 @@
 # ReadMe 🦉
 
-<a href="https://readme.com"><img src="./oss-banner.svg"></a>
+<a href="https://readme.com"><img src="./oss-badge.svg"></a>
 
 <img align="right" width="25%" style="margin-bottom: 2em" src="https://owlbertsio-resized.s3.amazonaws.com/reading.png.full.png">
 
