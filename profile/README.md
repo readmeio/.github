@@ -2,6 +2,8 @@
 
 # Hi, we're ReadMe! :wave:
 
+<a href="https://readme.com" target="_blank"><img src="../oss-banner.svg"></a>
+
 Welcome to our GitHub org! [At ReadMe][readme], we want developers to succeed. That's why building thoughtful developer experiences is at the core of everything we do.
 
 ### And by “developer”, we mean a _lot_ of people…
