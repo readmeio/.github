@@ -1,15 +1,20 @@
 {
-  "name": "readmeio-github",
+  "name": "@readme/dotgithub",
   "version": "1.0.0",
   "private": true,
   "description": "ReadMe's shared GitHub organization documents",
   "scripts": {
-    "test": "npx alex . .github"
+    "test": "npx alex . .github && prettier -c ."
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/readmeio/.github.git"
   },
   "author": "ReadMe",
-  "license": "ISC"
+  "license": "ISC",
+  "prettier": "@readme/eslint-config/prettier",
+  "devDependencies": {
+    "@readme/eslint-config": "^10.3.1",
+    "prettier": "^2.8.0"
+  }
 }

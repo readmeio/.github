@@ -23,8 +23,8 @@ Running an open source project? Let us know and and [we'll get you a ReadMe lice
 We're excited to see what you build with ReadMe! :owl:
 
 [readme]: https://readme.com
-[api]: https://github.com/readmeio/api "magically generates SDKs from an OpenAPI definition :magic_wand:"
-[markdown]: https://github.com/readmeio/markdown "our ReadMe-flavored Markdown parser and React-based rendering engine :writing_hand:"
-[rdme]: https://github.com/readmeio/rdme "the official ReadMe CLI and GitHub Action :shell:"
+[api]: https://github.com/readmeio/api 'magically generates SDKs from an OpenAPI definition :magic_wand:'
+[markdown]: https://github.com/readmeio/markdown 'our ReadMe-flavored Markdown parser and React-based rendering engine :writing_hand:'
+[rdme]: https://github.com/readmeio/rdme 'the official ReadMe CLI and GitHub Action :shell:'
 
 [^come-work-with-us]: Are you as excited about APIs as we are? Do you care deeply (maybe _too_ deeply) about documentation? Do you geek out over amazing web design? [**We're hiring**](https://readme.com/careers), and we'd love to work with you! 🎉
