@@ -1,4 +1,4 @@
-<img align="right" width="33%" style="margin-bottom: 2em" src="http://owlbertsio-resized.s3.amazonaws.com/Popper.psd.png">
+<img align="right" width="33%" style="margin-bottom: 2em" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 
 # Hi, we're ReadMe! :wave:
 
