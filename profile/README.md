@@ -16,7 +16,7 @@ Welcome to our GitHub org! [At ReadMe][readme], we want developers to succeed. T
 
 ### We :blue_heart: open source, y'all.
 
-Running an open source project? Let us know and and [we'll get you a ReadMe license for free](https://docs.readme.com/docs/upgrade-plan#open-source)! We're proud members of [the OpenAPI Initiative](https://www.openapis.org/) and [the Linux Foundation](https://www.linuxfoundation.org/), and maintain dozens of open source tools for working with APIs, the OpenAPI Specification, Markdown, and more.
+Running an open source project? Let us know and and [we'll get you a ReadMe license for free](https://docs.readme.com/main/docs/plans-and-pricing#plans-for-open-source-projects)! We're proud members of [the OpenAPI Initiative](https://www.openapis.org/) and [the Linux Foundation](https://www.linuxfoundation.org/), and maintain dozens of open source tools for working with APIs, the OpenAPI Specification, Markdown, and more.
 
 ### But most of all?
 

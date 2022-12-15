@@ -8,7 +8,7 @@ Need help with your OpenAPI definition, our API, or the ReadMe platform in gener
 
 The best way to get in touch is to contact #supportivepeople, AKA the most supportive people at ReadMe, AKA our support team!
 
-The fastest way to get a response is if you contact us via Intercom. You can read more about how to do this [in our docs](https://docs.readme.com/docs/contact-support). You can also email us at support@readme.io.
+The fastest way to get a response is if you contact us via Intercom. You can read more about how to do this [in our docs](https://docs.readme.com/main/docs/need-more-support). You can also email us at support@readme.io.
 
 ### Issues With This Repository
 
