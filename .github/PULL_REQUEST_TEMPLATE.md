@@ -1,4 +1,4 @@
-| 🚥 Fixes ISSUE_ID |
+| 🚥 Resolves ISSUE_ID |
 | :---------------- |
 
 ## 🧰 Changes
