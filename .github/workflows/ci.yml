@@ -15,8 +15,5 @@ jobs:
         with:
           node-version-file: package.json
 
-      - name: Install deps
-        run: npm ci
-
-      - name: Run tests
-        run: npm test
+      - name: Install deps and run tests
+        run: npm cit
