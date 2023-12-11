@@ -3,8 +3,11 @@
   "version": "1.0.0",
   "private": true,
   "description": "ReadMe's shared GitHub organization documents",
+  "engines": {
+    "node": "^18"
+  },
   "scripts": {
-    "test": "npx alex . .github && prettier -c ."
+    "test": "alex . .github && prettier -c ."
   },
   "repository": {
     "type": "git",
@@ -15,6 +18,7 @@
   "prettier": "@readme/eslint-config/prettier",
   "devDependencies": {
     "@readme/eslint-config": "^10.5.2",
+    "alex": "^11.0.1",
     "prettier": "^2.8.7"
   }
 }
